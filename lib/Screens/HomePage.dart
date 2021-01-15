@@ -7,7 +7,7 @@ import 'package:wall_e/Bloc/wallpaperEvent.dart';
 import 'package:wall_e/Screens/CategoryList.dart' as categoryScreen;
 import 'package:wall_e/Screens/EditorChoice.dart';
 import 'package:wall_e/Screens/Search.dart';
-import 'package:wall_e/Screens/Setting.dart';
+
 
 class MyHomePage extends StatefulWidget {
   final String title;
